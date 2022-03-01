@@ -13,7 +13,6 @@ import NoMatch from './components/NoMatch';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to adaptionapps.com hello</h1>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
