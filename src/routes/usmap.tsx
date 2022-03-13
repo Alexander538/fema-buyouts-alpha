@@ -1,6 +1,6 @@
 import { Card, CardContent, Stack } from '@mui/material'
 import React from 'react'
-import { MapContainer, TileLayer, Marker, Popup, LayersControl, LayerGroup } from 'react-leaflet'
+import { MapContainer, TileLayer, LayersControl, LayerGroup } from 'react-leaflet'
 import Counties from '../leaflet/CountyGrants';
 
 
