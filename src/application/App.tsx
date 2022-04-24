@@ -1,12 +1,11 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import './App.css';
-import Layout from './components/Layout';
-import Home from './routes/home';
-import MyMap from './routes/usmap';
-import Counties from './routes/counties';
-import County from './routes/county';
-import NoMatch from './components/NoMatch';
+import Layout from '../components/Layout';
+import Home from '../routes/home';
+import MyMap from '../routes/usmap';
+import Counties from '../routes/counties';
+import County from '../routes/county';
+import NoMatch from '../components/NoMatch';
 
 
 

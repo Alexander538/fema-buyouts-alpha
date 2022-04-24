@@ -1,7 +1,7 @@
 import React from "react";
 import { GeoJSON } from "react-leaflet";
 import countyData from '../data/countyBuyouts2.json';
-// import { useSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 
 function Counties() {
     // const globalCountyDollarsFrom = useSelector(
